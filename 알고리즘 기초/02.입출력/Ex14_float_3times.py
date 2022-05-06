@@ -1,0 +1,5 @@
+number = input()
+number = float(number)
+print(number)
+print(number)
+print(number)
